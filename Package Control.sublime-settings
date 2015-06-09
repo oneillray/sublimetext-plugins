@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CSS3",
+		"Emmet",
+		"Git",
+		"LESS",
+		"Less2Css",
+		"Liquid",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements"
+	]
+}
